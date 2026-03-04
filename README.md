@@ -4,9 +4,6 @@
 
 <table>
 <tr>
- <td align="center"><img align="center" alt="oficinas" src=""/></td>
-</tr>
-<tr>
  <td align="center">:computer: Lorem ipsum</td>
 </tr>
 </table>
