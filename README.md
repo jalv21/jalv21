@@ -1,20 +1,10 @@
-## Hi there 👋
-
-<div>
-
-<table>
-<tr>
- <td align="center">:computer: Lorem ipsum</td>
-</tr>
-</table>
-
-</div>
-
 ---
 <div>
 <img align="center" alt="Header" src="https://github.com/jalv21/jalv21/imgs/github-header-banner.png"/>
 </div>
+
 ---
+
 <div align="center">
 <table>
 <tr>
