@@ -1,16 +1,40 @@
 ## Hi there 👋
 
-<!--
-**jalv21/jalv21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
 
-Here are some ideas to get you started:
+<table>
+<tr>
+ <td align="center"><img align="center" alt="oficinas" src=""/></td>
+</tr>
+<tr>
+ <td align="center">:computer: Lorem ipsum</td>
+</tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+<tr>
+<!--<td><a href="https://replit.com/@aramuni"><img src="https://joaopauloaramuni.github.io/image/replit3.svg?raw=true" width="50px" height="50px"/></a>-->
+<td><a href=""><img src="" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://github.com/jalv21" target="_blank"><img src="" width="50px" height="50px"/></a>
+</td>
+<td><a href="mailto:jalv.rodrigues10@proton.me" target="_blank"><img src="" width="50px" height="50px"/></a>
+</td>
+<td><a href="" target="_blank"><img src="" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.linkedin.com/in/joao-alvaro-rodrigues/" target="_blank"><img src="" width="50px" height="50px"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+</table>
+</div>
