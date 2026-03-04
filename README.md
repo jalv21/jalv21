@@ -38,6 +38,10 @@
 
 ---
 
+[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=jalv21&custom_title=GitHub+Stats&theme=gotham&title_color=f5f5f5&text_color=bdbdbd&icon_color=9390a2&ring_color=87f07f&border_color=383838&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
+
+---
+
 ### Linguagens e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
