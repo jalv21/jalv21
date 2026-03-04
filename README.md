@@ -12,7 +12,7 @@
 
 ---
 <div>
-<img align="center" alt="Header" src="https://github.com/jalv21/imgs/github-header-banner.png"/>
+<img align="center" alt="Header" src="https://github.com/jalv21/jalv21/imgs/github-header-banner.png"/>
 </div>
 ---
 <div align="center">
