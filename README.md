@@ -52,22 +52,3 @@
 </td>
 </tr> 
 </table>
----
-
-## 🎧 Spotify - Ouvido Recentemente 
-
-<table>
- <tr>
-  <td align="center" colspan="2">
-        <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xxqfifqompscyfzdg4yyutvjkq&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=true">
-  </a>
-</p>
-  </td>
-  <td>
-  </td>
- </tr>
-</table>
-
-
