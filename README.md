@@ -87,7 +87,6 @@
 </p>
   </td>
   <td>
-   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xxqfifqompscyfzdg4yyutvjkq)
   </td>
  </tr>
 </table>
