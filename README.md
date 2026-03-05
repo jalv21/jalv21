@@ -42,6 +42,9 @@
 #### Não-Relacionais
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### UI/UX Design
+![Figma]( https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 ---
 <table>
 <tr>
