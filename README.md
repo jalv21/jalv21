@@ -66,9 +66,9 @@
 ---
 <table>
 <tr>
-<td align="center" colspan="2">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
+<td align="center" colspan="2">:watch: <a href="https://wakatime.com/@jalv21">WakaTime</a></td>
 <td>
-<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&layout=compact"/>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=jalv21&theme=dark&layout=compact"/>
 </td>
 </tr> 
 </table>
