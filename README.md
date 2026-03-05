@@ -30,6 +30,7 @@
 
 ---
 
+## Estatísticas do GitHub
 [![GitHub Stats](https://helio-github-stats.vercel.app/api?username=jalv21&custom_title=GitHub+Stats&theme=dracula&title_color=e8e1fe&text_color=c9c9c9&icon_color=cfcfcf&ring_color=d5c8f4&border_color=6b6b6b&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
 
 ---
@@ -72,3 +73,23 @@
 </td>
 </tr> 
 </table>
+---
+
+## 🎧 Spotify - Ouvido Recentemente 
+
+<table>
+ <tr>
+  <td align="center" colspan="2">
+        <p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xxqfifqompscyfzdg4yyutvjkq&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=true">
+  </a>
+</p>
+  </td>
+  <td>
+   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xxqfifqompscyfzdg4yyutvjkq)
+  </td>
+ </tr>
+</table>
+
+
