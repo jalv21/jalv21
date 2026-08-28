@@ -4,12 +4,18 @@
 </div>
 
 
+
 ## GitHub Stats
 [![GitHub Stats](https://helio-github-stats.vercel.app/api?username=jalv21&custom_title=GitHub+Stats&theme=dracula&title_color=e8e1fe&text_color=c9c9c9&icon_color=cfcfcf&ring_color=d5c8f4&border_color=6b6b6b&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
 
 ---
 
-## Tech Stack
+Hello👋 I am a Software Engineering student at Pontifícia Universidade Católica de Minas Gerais (PUC Minas), Brasil. 🇧🇷 <br>
+Here you'll see my personal and academic programming projects. <br>
+
+I try to always learn something new and put it into practice as fast as possible.
+
+## Current Stack
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![image](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
