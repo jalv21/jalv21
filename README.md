@@ -1,6 +1,6 @@
 ---
 <div>
-<img align="center" alt="Header" src="/imgs/github-header-banner(2).png"/>
+<img align="center" alt="Header" src="/imgs/github-header-banner(3).png"/>
 </div>
 
 ## GitHub Stats
