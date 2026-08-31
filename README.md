@@ -29,15 +29,25 @@ I try to always learn something new and put it into practice as fast as possible
 
 ---
 
+## WakaTime
+
 <table>
-<tr>
-<td align="center" colspan="2">:watch: <a href="https://wakatime.com/@jalv21">WakaTime</a></td>
-<td>
-<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=jalv21&theme=dark&layout=compact"/>
-</td>
-</tr> 
+  <tr>
+    <th><a href="https://wakatime.com"><img src="https://wakatime.com/share/@jalv21/db9535f6-1134-4f07-b7f0-7250a78981ba.png" /></a></th>
+    <th><a href="https://wakatime.com"><img src="https://wakatime.com/share/@jalv21/8d9488a5-5556-4a24-833c-ca4d8773733d.png" /></a></th>
+    <th><a href="https://wakatime.com"><img src="https://wakatime.com/share/@jalv21/ab033ec6-db3b-4d61-be32-0bf3a6a32370.png" /></a></th>
+  </tr>
 </table>
 
 ---
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xxqfifqompscyfzdg4yyutvjkq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+<table>
+  <tr>
+    <th> <p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xxqfifqompscyfzdg4yyutvjkq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+  </a>
+</p>
+</th>
+  </tr>
+</table>
